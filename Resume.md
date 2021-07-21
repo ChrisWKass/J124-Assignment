@@ -4,7 +4,7 @@ Intro to Data Journalism Markdown practice resume
  # Chris Kassiandes
  ## I am an international student studying journalism. I have a law degree from a South African University
 
-Image
+![Self portrait][self portrait.jpeg]
 
 ## Skills
 1. Trademark registration
